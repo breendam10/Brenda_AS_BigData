@@ -1,6 +1,6 @@
 # 📚 Documentação da API
 
-Este projeto foi desenvolvido por **Brenda Mendes** 👩‍💻 e consiste no back-end que é consumido pelo chatbot 🤖 criado com o Microsoft Bot Framework.
+Este projeto foi desenvolvido por **Brenda Mendes Araujo** 👩‍💻 e consiste no back-end que é consumido pelo chatbot 🤖 criado com o Microsoft Bot Framework.
 
 ## 📝 Descrição
 
